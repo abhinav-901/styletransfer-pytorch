@@ -1,0 +1,6 @@
+IMAGE_DIR = './data'
+CONTENT_IMAGE_NAME = 'octopus.jpg'
+STYLE_IMAGE_NAME = 'hockney.jpg'
+SIZE = 400
+STEPS = 2000
+DISPLAY_INTERVAL = 400
